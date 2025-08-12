@@ -1,0 +1,17 @@
+train: C:\Users\Administrator\Desktop\final_data\test\images
+val: C:\Users\Administrator\Desktop\final_data\train\images
+test: C:\Users\Administrator\Desktop\final_data\valid\images
+
+nc: 10
+names: [
+  'elon musk',
+  'ha huu vinh',
+  'haaland',
+  'markzuckerberg',
+  'mbappe',
+  'messi',
+  'neymar',
+  'rashford',
+  'ronaldo',
+  'trump'
+]
